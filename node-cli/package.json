@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "assert": "^2.0.0",
+    "commander": "^9.2.0",
+    "marked": "^4.0.15"
+  },
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
